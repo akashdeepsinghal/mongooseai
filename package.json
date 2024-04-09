@@ -1,0 +1,71 @@
+{
+  "name": "mongooseai",
+  "version": "8.3.1",
+  "description": "This plugin allows you to auto-increment any field on any mongoose schema that you wish.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akashdeepsinghal/mongooseai.git"
+  },
+  "dependencies": {
+    "extend": "^3.0.0"
+  },
+  "peerDependencies": {
+    "mongoose": "^8.3.1"
+  },
+  "devDependencies": {
+    "async": "*",
+    "chai": "*",
+    "mocha": "*",
+    "mongoose": "^8.3.1"
+  },
+  "keywords": [
+    "mongoose",
+    "plugin",
+    "auto-increment",
+    "auto",
+    "increment",
+    "automatic",
+    "autoincrement",
+    "auto_increment",
+    "autoinc",
+    "auto-inc",
+    "auto_inc",
+    "pureautoinc",
+    "mongoose-pureautoinc"
+  ],
+  "author": {
+    "name": "Akash Singhal",
+    "email": "akigupta131@gmail.com",
+    "url": "http://akashsinghal.in"
+  },
+  "contributors": [
+    {
+      "name": "Alex Ford (Chevex)",
+      "email": "alex.ford@codetunnel.com",
+      "url": "http://CodeTunnel.com"
+    },
+    {
+      "name": "Nassor Paulino da Silva (rossan)",
+      "email": "nassor@gmail.com"
+    },
+    {
+      "name": "Misha Koryak (mkoryak)",
+      "email": "mkoryak@gmail.com",
+      "url": "http://ExhibitionNest.com"
+    },
+    {
+      "name": "Christopher Hiller (boneskull)",
+      "url": "http://boneskull.github.io/"
+    },
+    {
+      "name": "tomaskavka",
+      "url": "https://github.com/tomaskavka"
+    }
+  ],
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "bugs": {
+    "url": "https://github.com/akashdeepsinghal/mongooseai/issues"
+  }
+}

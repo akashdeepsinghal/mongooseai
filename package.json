@@ -15,6 +15,7 @@
   "devDependencies": {
     "async": "*",
     "chai": "*",
+    "local-package-publisher": "^1.0.5",
     "mocha": "*",
     "mongoose": "^8.3.1"
   },
